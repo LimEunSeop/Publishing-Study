@@ -35,7 +35,7 @@ UI에서 HTML 의 비중이 점점 많이 차지하고있는 이 시점에, 잘 
 - 제목 콘텐츠 (`<h1>`, `<h2>` ...) 의 구조화 확실히 하기
 ### CSS
 - CSS 파일은 최소 2개가 되어야함. `1. normalize.css(스터디 통일 예정)`, `2. 페이지 스타일시트(1개 이상 가능)`
-- (선택사항) 스타일링 시 가능한 class selector 만 활용할 것 (React의 Styled Component와 Modular Style 에 대응하기 위함).
+- (선택사항) 스타일링 시 가능한 class selector 만 활용할 것 (React의 Styled Component와 Modular Style 에 대비하기 위함).
 ### 토론
 누구나 의문점을 제기하며 열린 토론 분위기를 형성하기. 공격적인 언행은 삼가하나 충분한 의견교환에 의한 토론은 언제나 환영.
 
