@@ -50,4 +50,5 @@ UI에서 HTML 의 비중이 점점 많이 차지하고있는 이 시점에, 잘 
 
 ## 참여 URL
 질문 및 참여를 원하시는 분께서는 아래 URL 의 채팅방에 참여 바랍니다.
+
 https://open.kakao.com/o/gFO8Cyrc
