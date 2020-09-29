@@ -28,7 +28,7 @@ UI에서 HTML 의 비중이 점점 많이 차지하고있는 이 시점에, 잘 
 - 피드백 및 토론 진행
 
 ### 2. 다음 숙제 선정
-- 모임 시, [dribbble 에서 공유되고 있는 shot](https://dribbble.com/shots/following/web-design?timeframe=ever&source_file=.fig)들 중에 어느것을 공부할지 선정
+- 모임 시, [dribbble 에서 공유되고 있는 shot](https://dribbble.com/shots/following/web-design?timeframe=ever&source_file=.fig) 들 중에 어느것을 공부할지 선정
 - 난이도에 따라 마크업, 스타일링을 2주에 걸쳐서 나누어 진행할 지, 동시에 진행할지 결정
 
 
@@ -42,7 +42,7 @@ UI에서 HTML 의 비중이 점점 많이 차지하고있는 이 시점에, 잘 
 ### CSS
 - CSS 파일은 최소 3개가 되어야함. `1. normalize.css(스터디 통일 예정)`, `2. common.css` `3. 페이지 스타일시트(1개 이상 가능)`
 - common.css 는 평소에 하던 방식대로 다양한 셀렉터 적용 가능.
-- (선택사항) 페이지 스타일시트 스타일링 시 가능한 class selector 만 활용할 것 (React의 Styled Component와 Modular Style 에 대비하기 위함).
+- (선택사항) 페이지 스타일시트 스타일링 시 가능한 class selector 만 활용할 것 (React의 Styled Component와 CSS Module 에 대비하기 위함).
 ### 토론
 누구나 의문점을 제기하며 열린 토론 분위기를 형성하기. 충분한 의견교환에 의한 토론은 언제나 환영. 
 
